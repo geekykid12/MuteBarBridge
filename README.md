@@ -31,13 +31,14 @@ UnityCapture virtual camera  →  OBS Studio / Discord (Windows 11 Fix) / any ap
 
 - Windows 10 / 11
 - [MuteBar](https://mutebar.app/) installed and running, with its SoftCam (`OAW CAM`) active
-- [UnityCapture](https://github.com/schellingb/UnityCapture) virtual camera driver installed
+- [UnityCapture](https://github.com/schellingb/UnityCapture) virtual camera driver installed (ships as part of the release file)
 
 ## Installation
 
 1. Go to the [Releases](../../releases) page of this repository.
 2. Download the latest installer: `MuteBarBridge-Setup-1.0.0.exe`.
 3. Run `MuteBarBridge-Setup-1.0.0.exe` and follow the on-screen prompts to install the application.
+4. Use the `Unity Video Capture` camera instead of `OWA CAM` in all applications (MuteBar mute pic and buttons still function as normal)
 
 ## Building from Source
 
