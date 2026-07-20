@@ -1,3 +1,6 @@
+<a href="https://www.buymeacoffee.com/geekykid12" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 107px !important;" ></a>
+
+
 # MuteBarBridge
 
 A small Windows bridge app that takes the video feed from [MuteBar](https://mutebar.app/)'s virtual webcam (**SoftCam**, exposed as the DirectShow device `OAW CAM`) and re-publishes it through the [UnityCapture](https://github.com/schellingb/UnityCapture) virtual camera driver — so it can be picked up as a normal webcam source in **OBS Studio**, **Discord**, and anywhere else that reads from a UnityCapture device.
